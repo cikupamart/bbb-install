@@ -53,7 +53,7 @@ Script for installing a BigBlueButton 2.2 (or later) server in about 15 minutes.
 This script also supports installation of a coturn (TURN) server on a separate server.
 
 USAGE:
-    wget -qO- https://ubuntu.bigbluebutton.org/bbb-install.sh | bash -s -- [OPTIONS]
+    wget -qO- https://ubuntu.tni.my.id/bbb-install.sh | bash -s -- [OPTIONS]
 
 OPTIONS (install BigBlueButton):
 
@@ -102,8 +102,8 @@ Sample options for setup of a coturn server (on a different server)
     -c turn.example.com:1234324 -e info@example.com
 
 SUPPORT:
-    Community: https://bigbluebutton.org/support
-         Docs: https://github.com/bigbluebutton/bbb-install
+    Community: https://ubuntu.tni.my.id/support
+         Docs: https://github.com/cikupamart/bbb-install
 
 HERE
 }
